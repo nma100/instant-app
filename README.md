@@ -1,6 +1,6 @@
 # Instant Bridge
 
-Instant Bridge enables instant and cheaper token transfers across different blockchains.
+Instant Bridge enables fast and cheaper token transfers across different blockchains.
 
 The application uses [Biconomy Hyphen technology](https://docs.biconomy.io/products/hyphen-instant-cross-chain-transfers) to make these transfers.
 
