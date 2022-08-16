@@ -2,7 +2,7 @@
 
 Instant Bridge enables instant and cheaper token transfers across different blockchains.
 
-The application uses [Biconomy Hyphen technology](https://docs.biconomy.io/products/hyphen-instant-cross-chain-transfers) as a Fiat/Crypto ramp.
+The application uses [Biconomy Hyphen technology](https://docs.biconomy.io/products/hyphen-instant-cross-chain-transfers) to make these transfers.
 
 Demo site : https://instant-bridge.vercel.app
 
@@ -22,6 +22,12 @@ Start development server :
 ```
 npm start
 ```
+
+Sass files compilation :
+```
+npm run css-compile
+```
+
 
 ## Librairies
 
