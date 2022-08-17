@@ -19,8 +19,8 @@ function InstantApp() {
 
 
   return (
-    <div className="vh-100 d-flex flex-column justify-content-center align-items-center">
-        <h1 id="title" className="display-1 mb-3">Instant Bridge</h1>  
+    <div className="d-flex flex-column align-items-center">
+        <h1 id="title" className="display-1 mt-5 mb-3">Instant Bridge</h1>  
         <h2 className="fs-1 text-muted mb-5">Fast and cheaper cross-chain transfers</h2>  
         <div id="widget"></div>
     </div>
